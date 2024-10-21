@@ -1,4 +1,4 @@
-module heintzz/upload-file
+module heintzz/upload
 
 go 1.22.1
 
